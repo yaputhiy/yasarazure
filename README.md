@@ -1,2 +1,2 @@
 # yasarazure
-default.htm
+Welcome to Azure Web from GitHub
